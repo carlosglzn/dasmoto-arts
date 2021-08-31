@@ -1,0 +1,11 @@
+.banner {
+    background-image: url('../images/pattern.jpeg');
+}
+
+.banner h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
